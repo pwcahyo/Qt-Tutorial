@@ -5,7 +5,7 @@
 3. (pushButton) digunakan untuk penambahan dan penghapusan data didalam QTableWidget
 
 ## Konsep sederhana
-1. main.py adalah core aplikasi
+1. `main.py` adalah core aplikasi
 2. folder layout berisi layout diantaranya adalah (_login_layout.py dan main_layout.py_)
 
 ## Cara menjalankan
