@@ -6,12 +6,12 @@
 
 ## Konsep sederhana
 1. `main.py` adalah core aplikasi
-2. folder layout berisi layout diantaranya adalah (_login_layout.py dan main_layout.py_)
+2. folder layout berisi layout diantaranya adalah `login_layout.py` dan `main_layout.py`
 
 ## Cara menjalankan
 1. Run aplikasi :
 ```
 python main.py
 ```
-2. Login dengan mengakomodasi layout (_login_layout.py_) apabila berhasil login maka akan masuk kedalam (_main_layout.py_)
-3. di (_main_layout.py_) user dapat menambahkan dan mengurangkan biodata pada (QtTableWidget)
+2. Login dengan mengakomodasi layout `login_layout.py` apabila berhasil login maka akan masuk kedalam `main_layout.py`
+3. di `main_layout.py` user dapat menambahkan dan mengurangkan biodata pada (QtTableWidget)
